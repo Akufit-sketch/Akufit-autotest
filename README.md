@@ -1,0 +1,2 @@
+# Akufit-autotest
+Fit test
